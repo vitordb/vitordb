@@ -9,15 +9,7 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a TIL - Today I learned repo** where I put every knowledge I know and share with everyone!
- 
- 🌱 I’m currently learning **Software Architecture and DDD**
 
- </div>
- 
-<div align="center"> 
   <a href="mailto:dbvitor@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
